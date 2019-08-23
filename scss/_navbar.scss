@@ -22,7 +22,7 @@ $white: #fff;
             margin-left: 10px;
             margin-right: 10px;
             &:hover {
-                color: darken($color: $white, $amount: 32%)
+                color: darken($color: $gray, $amount: 32%)
             }
         }
     }
